@@ -1,10 +1,10 @@
-# 🍽️ Restaurant Sales Analytics
+# 🍽️ Restaurant Sales Analytics: Big Data End-to-End Project
 
-## Project Overview
+## 📌 Project Overview
+This project focuses on building a scalable data pipeline and interactive dashboards to analyze **11 million+ rows** of restaurant transaction data.
+Using **Databricks** for high-performance processing and **Power BI** for reporting.
 
-This project presents a **Restaurant Sales Analytics Dashboard** built using **Databricks, SQL, and Power BI** with large dataset of 11+ million rows collected from multiple sources (Excel & JSON), to analyze restaurant operations, customer behavior, and business performance.
-
-The goal of this project is to transform **raw restaurant transaction data** into **actionable business insights** through data transformation, and interactive dashboards.
+The goal was to move beyond simple charts and create a system that identifies operational bottlenecks, peak performance periods, and customer spending habits across different branches.
 
 This dashboard helps answer key business questions:
 
@@ -68,14 +68,12 @@ This dashboard helps answer key business questions:
 
 ---
 
-# Key Insights
+# Business Insights
 
-* Cairo branch generates the highest revenue
-* Peak months: January & October
-* Peak days: Friday & Saturday
-* Evening & Afternoon are peak ordering times
-* Cash is the most preferred payment method
-* Majority of customers rated Excellent
+* **Regional Leaders:** **Cairo** stands out as the highest-performing branch, significantly driving total revenue.
+* **Peak Demand:** Sales consistently peak during **January and October**, with **Fridays and Saturdays** being the busiest days of the week.
+* **Rush Hour Management:** The **Evening and Afternoon** slots account for the bulk of order volume, highlighting key periods for staff optimization.
+* **Customer Preferences:** **Cash** is the preferred payment method (50% of transactions), and **Kebab & Tajines** are the most popular product categories.
 
 ---
 
@@ -89,8 +87,12 @@ This dashboard helps answer key business questions:
 * Data Visualization
 
 ---
+# Challenges & Solutions
+* **Performance Scaling:** To prevent dashboard lag with 11M rows, I implemented pre-aggregation strategies within Databricks before importing data into Power BI.
+* **Data Integration:** Unified inconsistent data structures from JSON and Excel into a single, clean reporting layer.
 
-# 🎯 Business Value
+---
+# Business Value
 
 This dashboard helps:
 
