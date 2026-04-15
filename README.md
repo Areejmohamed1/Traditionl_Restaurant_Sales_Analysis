@@ -22,13 +22,13 @@ This dashboard helps answer key business questions:
 
 <!-- ضع صورة الداشبورد الأولى هنا -->
 
-![Sales Overview Dashboard](dashboard_page1.png)
+![Sales Overview Dashboard](dashboard_page1.PNG)
 
 ## Customer & Product Analysis Dashboard
 
 <!-- ضع صورة الداشبورد الثانية هنا -->
 
-![Customer & Product Analysis Dashboard](dashboard_page2.png)
+![Customer & Product Analysis Dashboard](dashboard_page 2.PNG)
 
 ---
 
