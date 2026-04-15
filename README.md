@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents a **Restaurant Sales Analytics Dashboard** built using **Databricks, SQL, and Power BI** to analyze restaurant operations, customer behavior, and business performance.
+This project presents a **Restaurant Sales Analytics Dashboard** built using **Databricks, SQL, and Power BI** with large dataset of 11+ million rows collected from multiple sources (Excel & JSON), to analyze restaurant operations, customer behavior, and business performance.
 
 The goal of this project is to transform **raw restaurant transaction data** into **actionable business insights** through data transformation, and interactive dashboards.
 
@@ -20,13 +20,11 @@ This dashboard helps answer key business questions:
 
 ## Sales Overview Dashboard
 
-<!-- ضع صورة الداشبورد الأولى هنا -->
 
 ![Sales Overview Dashboard](dashboard_page1.PNG)
 
 ## Customer & Product Analysis Dashboard
 
-<!-- ضع صورة الداشبورد الثانية هنا -->
 
 ![Customer & Product Analysis Dashboard](dashboard_page2.PNG)
 
