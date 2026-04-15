@@ -28,7 +28,7 @@ This dashboard helps answer key business questions:
 
 <!-- ضع صورة الداشبورد الثانية هنا -->
 
-![Customer & Product Analysis Dashboard](dashboard_page 2.PNG)
+![Customer & Product Analysis Dashboard](dashboard_page2.PNG)
 
 ---
 
