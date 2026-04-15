@@ -84,7 +84,7 @@ Raw Data (JSON + Excel)
 
 | Layer | Tool | Purpose |
 |---|---|---|
-| Processing | Databricks + PySpark | Handle 11M rows at scale |
+| Processing | Databricks | Handle 11M rows at scale |
 | Storage | Delta Lake | ACID transactions, versioning |
 | Modeling | SQL / Data Modeling | Star schema, measures |
 | Visualization | Power BI | Interactive reporting |
