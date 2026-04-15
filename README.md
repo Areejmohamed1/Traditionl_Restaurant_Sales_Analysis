@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Sales Analytics: Big Data End-to-End Project
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on building a scalable data pipeline and interactive dashboards to analyze **11 million+ rows** of restaurant transaction data.
 Using **Databricks** for high-performance processing and **Power BI** for reporting.
 
