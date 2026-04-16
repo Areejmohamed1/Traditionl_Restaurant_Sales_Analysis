@@ -56,15 +56,15 @@ The system was designed to answer real operational questions — not just displa
 
 ## Business Insights
 
-** Cairo dominates** — contributes ~35% of total network revenue, nearly double the next branch (Alexandria & Giza at 0.58bn each).
+**Cairo dominates** — contributes ~35% of total network revenue, nearly double the next branch (Alexandria & Giza at 0.58bn each).
 
-** Demand is highly seasonal** — Q3 and Q4 consistently outperform, with January and October as monthly peaks. Staff and inventory planning should reflect this.
+**Demand is highly seasonal** — Q3 and Q4 consistently outperform, with January and October as monthly peaks. Staff and inventory planning should reflect this.
 
-** Evening & Afternoon are critical** — these two slots alone account for ~83% of all orders (8.9M each), making them the highest-priority windows for operations.
+**Evening & Afternoon are critical** — these two slots alone account for ~83% of all orders (8.9M each), making them the highest-priority windows for operations.
 
-** Cash still dominates** — 50% cash vs. 30% card vs. 20% wallet. Opportunity to push digital payment adoption, especially for delivery orders.
+**Cash still dominates** — 50% cash vs. 30% card vs. 20% wallet. Opportunity to push digital payment adoption, especially for delivery orders.
 
-** Strong satisfaction baseline** — 64% Excellent ratings, but the gap between branches is worth monitoring to protect brand consistency.
+**Strong satisfaction baseline** — 64% Excellent ratings, but the gap between branches is worth monitoring to protect brand consistency.
 
 ---
 
